@@ -13,5 +13,7 @@ public class Principale2 {
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
+		System.out.println(gatto.getOggetto());
+		System.out.println(gatto.getOggetto());
 	}
 }

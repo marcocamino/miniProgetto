@@ -12,5 +12,6 @@ public class Principale2 {
 		Gatto gatto = new Gatto();
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
+		System.out.println(gatto.getOggetto());
 	}
 }

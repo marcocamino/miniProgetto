@@ -1,6 +1,9 @@
 
 public class Principale2 {
 	public static void main(String[] args){
+		
+		//branch marco
+		
 		System.out.println("Sono nella classe principale");
 		
 		Cane cane = new Cane();
@@ -10,6 +13,7 @@ public class Principale2 {
 		System.out.println(caneDiRazza.getOggetto());
 		
 		Gatto gatto = new Gatto();
+		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());

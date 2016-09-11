@@ -13,6 +13,7 @@ public class Principale2 {
 		System.out.println(caneDiRazza.getOggetto());
 		
 		Gatto gatto = new Gatto();
+		System.out.println("Output: ");
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());

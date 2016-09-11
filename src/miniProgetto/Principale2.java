@@ -2,7 +2,7 @@
 public class Principale2 {
 	public static void main(String[] args){
 		
-		//branch marco
+		//branch marco per provare il merge
 		
 		System.out.println("Sono nella classe principale");
 		

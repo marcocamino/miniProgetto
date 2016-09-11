@@ -1,6 +1,6 @@
 
 public class Mucca {
 	public String getOggetto(){
-		return("Sono una mucca bellissima"); 
+		return("Sono una mucca di fulvio e sono bellissima"); 
 	}
 }

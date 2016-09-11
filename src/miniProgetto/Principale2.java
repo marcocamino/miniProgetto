@@ -8,6 +8,11 @@ public class Principale2 {
 		
 		Cane cane = new Cane();
 		System.out.println(cane.getOggetto());	
+		System.out.println(cane.getOggetto());
+		System.out.println(cane.getOggetto());
+		System.out.println(cane.getOggetto());
+		System.out.println(cane.getOggetto());
+		System.out.println(cane.getOggetto());
 		
 		CaneDiRazza caneDiRazza = new CaneDiRazza();
 		System.out.println(caneDiRazza.getOggetto());

@@ -27,5 +27,9 @@ public class Principale2 {
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
+		
+		for(int j = 0; j < 20; j++){
+			System.out.println("Sono la modifica");	
+		}
 	}
 }

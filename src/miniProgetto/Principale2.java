@@ -39,6 +39,12 @@ public class Principale2 {
 			System.out.println("modifica del master1");
 			System.out.println("modifica del master1");
 			System.out.println("modifica del master1");
+			
+			System.out.println("modifica del master2");
+			System.out.println("modifica del master2");
+			System.out.println("modifica del master2");
+			System.out.println("modifica del master2");
+			System.out.println("modifica del master2");
 		}
 		/*
 		String stringa = "";

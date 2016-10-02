@@ -30,7 +30,9 @@ public class Principale2 {
 		System.out.println(gatto.getOggetto());
 		System.out.println(gatto.getOggetto());
 		
-		
+		for(int i = 0; i< 10; i++){
+			System.out.println("modifica del master");
+		}
 		/*
 		String stringa = "";
 		String s = "";

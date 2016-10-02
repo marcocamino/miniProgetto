@@ -32,15 +32,20 @@ public class Principale2 {
 		
 		for(int i = 0; i< 10; i++){
 			System.out.println("modifica del master");
-<<<<<<< HEAD
+
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
-=======
+
 			System.out.println("modifica del master");
 			System.out.println("modifica del master");
->>>>>>> origin/master
+			
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+
 		}
 		/*
 		String stringa = "";

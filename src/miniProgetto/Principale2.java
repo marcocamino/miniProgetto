@@ -47,7 +47,7 @@ public class Principale2 {
 		str[8] = "te";
 		str[9] = "ok";
 		for(int i = 0; i < 10; i++){
-			System.out.println(str[i]);
+			System.out.println(str[i]); 
 			s = str[i];
 			stringa = stringa + " " + s;
 			System.out.println(stringa);

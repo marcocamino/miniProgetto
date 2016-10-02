@@ -33,18 +33,38 @@ public class Principale2 {
 		
 		for(int i = 0; i< 10; i++){
 			System.out.println("modifica del master");
+
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+
 			System.out.println("modifica del master");
 			System.out.println("modifica del master");
 			
+
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+
+
 			System.out.println("modifica del master1");
 			System.out.println("modifica del master1");
 			System.out.println("modifica del master1");
 			
+<<<<<<< HEAD
 			System.out.println("modifica del master2");
 			System.out.println("modifica del master2");
 			System.out.println("modifica del master2");
 			System.out.println("modifica del master2");
 			System.out.println("modifica del master2");
+=======
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+			System.out.println("modifica da marco");
+
+>>>>>>> marco
 		}
 		/*
 		String stringa = "";
@@ -61,7 +81,7 @@ public class Principale2 {
 		str[8] = "te";
 		str[9] = "ok";
 		for(int i = 0; i < 10; i++){
-			System.out.println(str[i]);
+			System.out.println(str[i]); 
 			s = str[i];
 			stringa = stringa + " " + s;
 			System.out.println(stringa);
@@ -69,5 +89,10 @@ public class Principale2 {
 		System.out.println(stringa);
 		System.out.println(str[4]);
 		*/
+		for(int i = 0; i<10; i++){
+			System.out.println("Ciao mondo ");
+			System.out.println("Ciao mondo ");
+		}
+		
 	}
 }

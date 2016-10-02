@@ -1,3 +1,4 @@
+
 public class Principale2 {
 	public static void main(String[] args){
 		
@@ -41,11 +42,17 @@ public class Principale2 {
 			System.out.println("modifica del master");
 			System.out.println("modifica del master");
 			
+<<<<<<< HEAD
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
 			System.out.println("modifica da marco");
 
+=======
+			System.out.println("modifica del master1");
+			System.out.println("modifica del master1");
+			System.out.println("modifica del master1");
+>>>>>>> origin/master
 		}
 		/*
 		String stringa = "";

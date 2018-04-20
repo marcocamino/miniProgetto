@@ -4,6 +4,13 @@ public class Principale2 {
 		
 		//branch marco per provare il merge
 		
+		
+		//usr marcocamino
+		
+		//email marco1.camino@gmail.com
+		
+		//pwd m4rc0C16!
+		
 		System.out.println("Sono nella classe principale");
 		
 		Cane cane = new Cane();
